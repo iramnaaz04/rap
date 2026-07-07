@@ -1,0 +1,12 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "AFKO",
+      "AUFK",
+      "JEST",
+      "MAKT",
+      "MSEG",
+      "RESB"
+    ]
+  }
+}

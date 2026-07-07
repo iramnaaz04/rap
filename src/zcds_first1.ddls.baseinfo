@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "MARA"
+    ],
+    "ASSOCIATED": [
+      "MARC"
+    ]
+  }
+}
